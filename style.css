@@ -1,0 +1,78 @@
+.one{
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    font-weight: 900;
+    position: relative;
+    top: 158px;
+    right: 271px;
+    letter-spacing: 1.5px;
+}
+.two{
+    color: gray;
+    font-weight: normal;
+    position: relative;
+    margin: -36px -151px 10px 10px;
+}
+.three{
+   
+    color: gray;
+    font-weight: normal;
+    margin: 113px -904px 14px 882px; 
+    font-size: xx-large;
+}
+.circle{
+    height: 40px;
+    width: 40px;
+    border-radius: 24px;
+    background-color: tomato;
+    position: absolute;
+    text-align: center;
+    font-weight: bolder;
+    top: 155px;
+    color: white;
+    font-size: xx-large;
+    right: 400px;
+}
+.four{
+    border: red solid 2px;
+    position: relative;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    color: red;
+    font-size: x-large;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #ccc;
+    display: inline-block;
+    top: 40px;
+    left: 250px;
+
+
+}
+hr{
+    margin-left: 30px;
+    color: black;
+
+}
+.strike{
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    font-weight: 300;
+}
+.five{
+    position: absolute;
+    top: 160px;
+    left: 10px;
+    color: black;
+}
+.space{
+    left: 390px;
+}
+.space1{
+    left: 320px;
+}
+.line{
+    text-decoration: none;
+}

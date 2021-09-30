@@ -1,0 +1,116 @@
+.one{
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    font-weight: 900;
+    position: relative;
+    top: 158px;
+    right: 271px;
+    letter-spacing: 1.5px;
+}
+.two{
+    color: gray;
+    font-weight: normal;
+    position: relative;
+    margin: -36px -151px 10px 10px;
+}
+.three{
+   
+    color: gray;
+    font-weight: normal;
+    margin: 113px -904px 14px 882px; 
+    font-size: xx-large;
+}
+.circle{
+    height: 40px;
+    width: 40px;
+    border-radius: 24px;
+    background-color: tomato;
+    position: absolute;
+    text-align: center;
+    font-weight: bolder;
+    top: 155px;
+    color: white;
+    font-size: xx-large;
+    right: 400px;
+}
+.four{
+    border: red solid 2px;
+    position: relative;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    color: red;
+    font-size: x-large;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #ccc;
+    display: inline-block;
+    top: 40px;
+    left: 250px;
+
+
+}
+hr{
+    margin-left: 30px;
+    color: black;
+
+}
+.strike{
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    font-weight: 300;
+}
+.five{
+    position: absolute;
+    top: 160px;
+    left: 10px;
+    color: black;
+}
+.space{
+    left: 390px;
+}
+.space1{
+    left: 320px;
+}
+.blur{
+    filter: blur(6px);
+}
+.seven{
+    border: solid tomato 1px;
+    display: inline-block;
+position: absolute;
+height: 138px;
+width: 268px;
+text-align: center;
+color:tomato;
+top: 237px;
+right: 493px;
+margin: 10px;
+background-color: white;
+}
+.eight{
+    border: solid tomato 1px;
+    width: 100px;
+    height: 11px;
+    padding: 3px 13px 4px 19px;
+    margin: -4px -42px 5px 5px;
+    position: absolute;
+    right: 100px;
+    border-radius: 5px;
+}
+.nine{
+    position: absolute;
+    height: 27px;
+    width: 60px;
+    border: solid red 0px;
+    border-radius: 16px;
+    background-color: tomato;
+    top: 84px;
+    right: 96px;
+    color: white;
+    text-align: center;
+    padding: 7px 3px 0px 2px;
+    margin: 2px;
+    align-items: center;
+}
