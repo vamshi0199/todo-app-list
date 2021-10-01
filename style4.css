@@ -91,15 +91,13 @@ text-decoration: none;
     color: red;
 }
 .vam{
-    border: solid tomato 1px;
-    width: 100px;
-    height: 11px;
-    padding: 3px 13px 4px 19px;
-    margin: -4px -42px 5px 5px;
+    border: solid red ;
+   box-shadow: 2px 2px 2px gray;
     position: absolute;
-    right: 136px;
+    right: 75px;
     border-radius: 5px;
-    top: 65px;
+    top: 53px;
+    margin: 5px;
 }
 .vam1{
     position: absolute;
